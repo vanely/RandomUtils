@@ -1,0 +1,44 @@
+{
+  "User": {
+    "S": "fe072f05-5ad1-45ae-b1af-49078deb943b"
+  },
+  "Creator": {
+    "S": "Person"
+  },
+  "Date": {
+    "S": "Mon Apr 19 2021 17:45:57 GMT+0000 (Coordinated Universal Time)"
+  },
+  "Id": {
+    "S": "hf398hf9dsf"
+  },
+  "Message": {
+    "S": "A random messsage"
+  },
+  "NumberOfInvalidEntries": {
+    "N": "0"
+  },
+  "NumberOfMessages": {
+    "N": "1"
+  },
+  "OrgId": {
+    "S": "93jfldklf032r"
+  },
+  "OrgName": {
+    "S": "Some Org"
+  },
+  "Status": {
+    "S": "created"
+  },
+  "Title": {
+    "S": "Some Title"
+  },
+  "Type": {
+    "S": "notification"
+  },
+  "ValidationReport": {
+    "S": "-"
+  },
+  "Verify": {
+    "BOOL": true
+  }
+}
